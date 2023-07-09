@@ -2,3 +2,5 @@ Resolusi Irsan Baihaqi
 -Belajar Github dan git
 -Belajar Javascript
 -Belajar javascript lanjutan dan oop
+-Belajar Tailwind
+-Belajar SASS
