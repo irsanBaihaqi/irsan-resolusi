@@ -1,3 +1,8 @@
 rencana projek
 -projek DA shop
+*Html
+*Css
+*tailwind
+
 -projek Kantin
+*flutter
